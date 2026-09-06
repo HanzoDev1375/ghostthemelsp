@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "type": "commonjs",
   "bin": {
-    "ghost-theme-lsp": "src/server.js"
+    "ghost-theme-lsp": "dist/ghost-theme-lsp.js"
   },
   "engines": {
     "node": ">=16"
